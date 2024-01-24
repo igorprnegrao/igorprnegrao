@@ -33,3 +33,5 @@
 ### Uma Música para a alma
 
 <img height= 200 src="https://spotify-github-profile.vercel.app/api/view?uid=igornegrao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+
+Email para contato: <neurocientista@gmail.com>
