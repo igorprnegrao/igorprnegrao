@@ -29,3 +29,5 @@
 <img align="center" alt="HTML5" src="https://aleen42.github.io/badges/src/photoshop.svg">
 <img align="center" alt="HTML5" src="https://aleen42.github.io/badges/src/illustrator.svg">
 </div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=igornegrao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
