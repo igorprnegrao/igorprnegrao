@@ -25,13 +25,21 @@
 ### Especialista Designer
 
 <div style="display: inline_block"><br/>
+  
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img align="center" alt="HTML5" src="https://aleen42.github.io/badges/src/photoshop.svg">
 <img align="center" alt="HTML5" src="https://aleen42.github.io/badges/src/illustrator.svg">
+
 </div>
 
-### Uma Música para a alma
+### Especialista nas Tecnologias Back-end
 
-<img height= 200 src="https://spotify-github-profile.vercel.app/api/view?uid=igornegrao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+<div style="display: inline_block"><br/>
+  
+<img align="center" alt="HTML5" src="[https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)">
+<img align="center" alt="HTML5" src="https://aleen42.github.io/badges/src/photoshop.svg">
+<img align="center" alt="HTML5" src="https://aleen42.github.io/badges/src/illustrator.svg">
+
+</div>
 
 Email para contato: <neurocientista@gmail.com>
