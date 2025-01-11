@@ -43,5 +43,6 @@
 
 </div>
 <div>
+  Email para contato: <neurocientista@gmail.com>
 </div>
-Email para contato: <neurocientista@gmail.com>
+
